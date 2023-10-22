@@ -1,0 +1,14 @@
+﻿  MeshCreator.cpp
+  ShapeCreator.cpp
+C:\Users\jerem\Desktop\Project\Module2Triangles\ShapeCreator.cpp(238,87): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  Source.cpp
+C:\Users\jerem\Desktop\Project\Module2Triangles\Source.cpp(263,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\Desktop\Project\Module2Triangles\Source.cpp(264,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\Desktop\Project\Module2Triangles\Source.cpp(268,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\Desktop\Project\Module2Triangles\Source.cpp(269,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\Desktop\Project\Module2Triangles\Source.cpp(271,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\Desktop\Project\Module2Triangles\Source.cpp(272,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\Desktop\Project\Module2Triangles\Source.cpp(558,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Module2Triangles.vcxproj -> C:\Users\jerem\Desktop\Project\Debug\3DScene.exe
